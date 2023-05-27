@@ -22,7 +22,7 @@ Siga os passos abaixo para instalar e configurar o projeto Galeria:
 2. Navegue até o diretório do projeto:
 
    ```shell
-   cd galeria
+   cd projeto-galeria
    ```
 
 3. Instale as dependências do projeto utilizando o NPM:
