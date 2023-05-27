@@ -47,7 +47,7 @@ Para executar o projeto Galeria, siga os passos abaixo:
 3. Abra um navegador da web e acesse a seguinte URL:
 
    ```
-   http://localhost:3000
+   http://localhost:9000/
    ```
 
 4. A aplicação da Galeria será carregada no navegador, e você poderá começar a navegar pela coleção de imagens.
