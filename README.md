@@ -57,9 +57,12 @@ O projeto Galeria possui a seguinte estrutura de diretórios e arquivos principa
 
 - `src/`: Diretório principal do código-fonte da aplicação.
   - `index.js`: Arquivo de entrada do aplicativo, responsável por inicializar a aplicação e carregar os recursos necessários.
-  - `components/`: Diretório que contém os componentes reutilizáveis da aplicação.
-  - `styles/`: Diretório que contém os arquivos de estilo da aplicação.
-- `public/`: Diretório que contém os arquivos estáticos da aplicação, como imagens e ícones.
+  - `index.html`: Arquivo de entrada da aplicação, onde é centralizado todas as páginas e divisões da tela.
+  - `js`: Plugins desenvolvidos para utilização da página principal.
+  - `pages/`: Diretório que contém as páginas reutilizáveis da aplicação.
+  - `scss/`: Diretório que contém os aqruivos de configuração do scss(imports e custom.scss) e aquivos de estilização da aplicação.
+- `package.json`: Aqruivo que contém as versões de instalação dos imports carregados.
+- `package-lock.json`: Arquivo de configuração do NPM.
 - `webpack.config.js`: Arquivo de configuração do Webpack, que define como os arquivos do projeto devem ser compilados e empacotados.
 
 ## Personalização
