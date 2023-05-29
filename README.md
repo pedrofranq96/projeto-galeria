@@ -68,8 +68,8 @@ O projeto Galeria possui a seguinte estrutura de diretórios e arquivos principa
 ## Personalização
 Caso deseje personalizar a aparência ou o comportamento da aplicação Galeria, você pode fazer as seguintes modificações:
 
-- Editar os arquivos de estilo em `src/styles/` para alterar a aparência visual da galeria.
-- Modificar ou adicionar novos componentes em `src/components/` para personalizar o comportamento da aplicação.
+- Editar os arquivos de estilo em `src/scss/custom.scss` para alterar a aparência visual da galeria.
+- Modificar ou adicionar novas páginas em `src/pages/` para personalizar o comportamento da aplicação.d
 
 Certifique-se de reconstruir e reiniciar o projeto após fazer qualquer modificação relevante.
 
